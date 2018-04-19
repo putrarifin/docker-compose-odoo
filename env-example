@@ -1,0 +1,7 @@
+#postgre config env
+POSTGRES_PASSWORD=odoo
+POSTGRES_USER=odoo
+
+#odoo conf env
+PATH_CONF=./o_etc
+PATH_CUSTOM_ADDONS=./o_addons
